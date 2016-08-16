@@ -1,0 +1,31 @@
+html {
+    background-color: ;
+}
+    
+
+h1 {
+        background-color: darkturquoise;
+        font-family: cursive;
+        font-size: 35px;
+    }
+
+
+h2 {
+    font-size: 60px;
+}
+
+nav {
+        text-align: center;
+        }
+    
+.newspaper {
+        -webkit-column-count: 3;
+        
+        }
+.firstLetter {
+        font-size: 200%;
+        color: blue;
+        }
+p {
+        text-align: justify;
+        }
